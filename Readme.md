@@ -7,6 +7,7 @@ ResumeWorkshop is a decentralized application (dApp) that enables users to host 
 
 ## Contract Address
 0xee89a526786bff6fd5397a015a8d2fae683b468d
+![image](https://github.com/user-attachments/assets/fda0046f-6acd-40b5-999d-49b9be6f247b)
 
 ## Project Vision
 Our vision is to provide a blockchain-based solution for managing workshops that eliminates middlemen, ensures transparency, and facilitates secure transactions between hosts and participants. By leveraging the Ethereum blockchain, we aim to create a platform that fosters a community of learning and skill development while ensuring fairness and trust.
